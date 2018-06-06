@@ -1,8 +1,8 @@
 # Moon Phases Dashboard
 🌒🌒🌓🌔🌕🌖🌗🌘🌑 Command-line tool that scrapes data from timeanddate.com 
 
-![the less eye strain version](https://imgur.com/5RVFy0P "In use")
-![output with gradient](https://imgur.com/sJhroTe "Piped to lolcat")
+![the less eye strain version](https://i.imgur.com/5RVFy0P.png "In use")
+![output with gradient](https://i.imgur.com/sJhroTe.png "Piped to lolcat")
 
 ## Usage
 You can run it in a shell by supplying it with the country and city name you'd like to use: 
