@@ -116,6 +116,9 @@ class Astro:
 			symbol = "🌔"
 		return symbol
 
+	def calculate_iss_pos(self):
+		return ""
+
 
 def printdisplay(country: str, city: str):
 	# make magic, pipe output to lolcat (https://github.com/busyloop/lolcat) for better effects
